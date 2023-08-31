@@ -1,6 +1,10 @@
 # CoCoNet
 ## 1.Introduction
 The specific mutations that occur during the evolution of highly variable viruses will enhance their immune escape ability, which brings great challenges to the development of vaccines and drugs against them. Coronavirus Disease 2019 (Covid-19) virus is a kind of highly variable virus, which has evolved from the original strain to multi-lineage variant strains. We developed a machine learning model-based prediction software (CoCoNet) for the infectiousness of Covid-19 virus mutation lineages. By building a spike protein (S) of the conservative network topological index and calculate mutation module, CoCoNet predict Covid - 19 virus mutation spectrum the infection rate of accuracy is 0.72. Our approach investigates the lineage mutation of COVID-19 from a systems biology perspective and suggests the need for further consideration based on the binding affinity of S protein to its receptor.
+
+- Covid-19 Omicron BQ.1、BQ.1.1、XBB and XBB's evolutionary relationships of subvariants, and their distribution on Spike proteins:
+  ![Figure1](pic/Figure1.jpg)
+  
 ## 2.Usage
 ### Arguments description
 - --input_fasta：the fasta format files or folders inputed
