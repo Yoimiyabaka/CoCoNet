@@ -1,4 +1,4 @@
-
+# CoCoNet
 ### 参数说明
 - --input_fasta：输入的fasta格式文件或文件夹
 - --data_dir：中间数据存放路径，default: "./data"
