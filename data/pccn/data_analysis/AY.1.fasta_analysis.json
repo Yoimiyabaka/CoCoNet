@@ -1,0 +1,978 @@
+{
+	"1": {
+		"WHO label": "Omicron",
+		"Lineage + additional mutations": "BA.1",
+		"Country first detected (community)": "South Africa and Botswana",
+		"Spike mutations of interest": "A67V T95I G142D N211I G339D S371L S373P S375F S477N T478K E484A Q493R G496S Q498R N501Y Y505H T547K D614G H655Y N679K P681H N764K D796Y N856K Q954H N969K L981F",
+		"Year and month first detected": "November 01, 2021",
+		"Impact on transmissibility": "Increased (v) (1, 2)",
+		"Impact on immunity": "Increased (v) (3-5)",
+		"Impact on severity": "Reduced (v) (6-8)",
+		"Category": "Variants of Concern (VOC)",
+		"aas": [
+			"A67V",
+			"S371L",
+			"S373P",
+			"T547K"
+		],
+		"type1": [
+			{
+				"rank": 1061,
+				"position": "67A",
+				"information": 1.399,
+				"rate": 83.47757671125098,
+				"aa": "A67V"
+			},
+			{
+				"rank": 1024,
+				"position": "371S",
+				"information": 1.47,
+				"rate": 80.56648308418568,
+				"aa": "S371F"
+			},
+			{
+				"rank": 798,
+				"position": "373S",
+				"information": 1.752,
+				"rate": 62.78520849724626,
+				"aa": "S373P"
+			},
+			{
+				"rank": 520,
+				"position": "547T",
+				"information": 2.047,
+				"rate": 40.91266719118804,
+				"aa": "T547K"
+			}
+		],
+		"t1": {},
+		"type2": [
+			{
+				"rank": 181754,
+				"site1": "67A",
+				"site2": "371S",
+				"info": 49.329,
+				"rate": 11.25104538017792
+			},
+			{
+				"rank": 81788,
+				"site1": "67A",
+				"site2": "373S",
+				"info": 171.514,
+				"rate": 5.062889947698492
+			},
+			{
+				"rank": 90116,
+				"site1": "67A",
+				"site2": "547T",
+				"info": 162.39,
+				"rate": 5.578414810568755
+			},
+			{
+				"rank": 190937,
+				"site1": "371S",
+				"site2": "373S",
+				"info": 42.889,
+				"rate": 11.819496967082053
+			},
+			{
+				"rank": 223130,
+				"site1": "371S",
+				"site2": "547T",
+				"info": 25.307,
+				"rate": 13.812327407810004
+			},
+			{
+				"rank": 48830,
+				"site1": "373S",
+				"site2": "547T",
+				"info": 208.938,
+				"rate": 3.0227040170455
+			}
+		]
+	},
+	"2": {
+		"WHO label": "Omicron",
+		"Lineage + additional mutations": "BA.2",
+		"Country first detected (community)": "South Africa",
+		"Spike mutations of interest": "T19I L24S G142D V213G G339D S371F S373P S375F T376A D405N R408S K417N N440K S477N T478K E484A Q493R Q498R N501Y Y505H D614G H655Y N679K P681H N764K D796Y Q954H N969K",
+		"Year and month first detected": "November 01, 2021",
+		"Impact on transmissibility": "Increased (v) (1, 9)",
+		"Impact on immunity": "Increased (v) (3)",
+		"Impact on severity": "Reduced (v) (10, 11)",
+		"Category": "Variants of Concern (VOC)",
+		"aas": [
+			"L24S",
+			"S371F",
+			"S373P"
+		],
+		"type1": [
+			{
+				"rank": 1135,
+				"position": "24L",
+				"information": 1.068,
+				"rate": 89.29976396538159,
+				"aa": "L24S"
+			},
+			{
+				"rank": 1024,
+				"position": "371S",
+				"information": 1.47,
+				"rate": 80.56648308418568,
+				"aa": "S371F"
+			},
+			{
+				"rank": 798,
+				"position": "373S",
+				"information": 1.752,
+				"rate": 62.78520849724626,
+				"aa": "S373P"
+			}
+		],
+		"t1": {},
+		"type2": [
+			{
+				"rank": 176092,
+				"site1": "24L",
+				"site2": "371S",
+				"info": 53.831,
+				"rate": 10.9005528521314
+			},
+			{
+				"rank": 168798,
+				"site1": "24L",
+				"site2": "373S",
+				"info": 60.352,
+				"rate": 10.449035278911454
+			},
+			{
+				"rank": 190937,
+				"site1": "371S",
+				"site2": "373S",
+				"info": 42.889,
+				"rate": 11.819496967082053
+			}
+		]
+	},
+	"3": {
+		"WHO label": "Omicron",
+		"Lineage + additional mutations": "BA.4",
+		"Country first detected (community)": "South Africa",
+		"Spike mutations of interest": "T19I L24S G142D V213G G339D S371F S373P S375F T376A D405N R408S K417N N440K L452R S477N T478K E484A F486V Q498R N501Y Y505H D614G H655Y N679K P681H N764K D796Y Q954H N969K",
+		"Year and month first detected": "January 01, 2022",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (12, 13)",
+		"Impact on severity": "No evidence",
+		"Category": "Variants of Concern (VOC)",
+		"aas": [
+			"L24S",
+			"S371F",
+			"S373P"
+		],
+		"type1": [
+			{
+				"rank": 1135,
+				"position": "24L",
+				"information": 1.068,
+				"rate": 89.29976396538159,
+				"aa": "L24S"
+			},
+			{
+				"rank": 1024,
+				"position": "371S",
+				"information": 1.47,
+				"rate": 80.56648308418568,
+				"aa": "S371F"
+			},
+			{
+				"rank": 798,
+				"position": "373S",
+				"information": 1.752,
+				"rate": 62.78520849724626,
+				"aa": "S373P"
+			}
+		],
+		"t1": {},
+		"type2": [
+			{
+				"rank": 176092,
+				"site1": "24L",
+				"site2": "371S",
+				"info": 53.831,
+				"rate": 10.9005528521314
+			},
+			{
+				"rank": 168798,
+				"site1": "24L",
+				"site2": "373S",
+				"info": 60.352,
+				"rate": 10.449035278911454
+			},
+			{
+				"rank": 190937,
+				"site1": "371S",
+				"site2": "373S",
+				"info": 42.889,
+				"rate": 11.819496967082053
+			}
+		]
+	},
+	"4": {
+		"WHO label": "Alpha",
+		"Lineage + additional mutations": "B.1.1.7",
+		"Country first detected (community)": "United Kingdom",
+		"Spike mutations of interest": "N501Y A570D D614G P681H T716I S982A D1118H",
+		"Year and month first detected": "September 01, 2020",
+		"Impact on transmissibility": "Increased (v) (14)",
+		"Impact on immunity": "Similar",
+		"Impact on severity": "Increased (v) (15, 16)",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	},
+	"5": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "B.1.1.7+E484K",
+		"Country first detected (community)": "United Kingdom",
+		"Spike mutations of interest": "N501Y A570D D614G P681H T716I S982A D1118H E484K",
+		"Year and month first detected": "December 01, 2020",
+		"Impact on transmissibility": "Increased (v) (14)",
+		"Impact on immunity": "Increased (v) (17, 18)",
+		"Impact on severity": "Increased (v) (15)",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	},
+	"6": {
+		"WHO label": "Epsilon",
+		"Lineage + additional mutations": "B.1.427",
+		"Country first detected (community)": "USA",
+		"Spike mutations of interest": "S13I W152C L452R D614G",
+		"Year and month first detected": "September 01, 2020",
+		"Impact on transmissibility": "Unclear (19)",
+		"Impact on immunity": "Increased (v) (19)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [
+			"S13I",
+			"W152C"
+		],
+		"type1": [
+			{
+				"rank": 842,
+				"position": "13S",
+				"information": 1.702,
+				"rate": 66.24704956726987,
+				"aa": "S13I"
+			},
+			{
+				"rank": "",
+				"position": "152W",
+				"information": "",
+				"rate": "",
+				"aa": "W152C"
+			}
+		],
+		"t1": {},
+		"type2": []
+	},
+	"8": {
+		"WHO label": "Eta",
+		"Lineage + additional mutations": "B.1.525",
+		"Country first detected (community)": "Nigeria",
+		"Spike mutations of interest": "Q52R A67V E484K D614G Q677H F888L",
+		"Year and month first detected": "December 01, 2020",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (m) (17, 22)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [
+			"Q52R",
+			"A67V"
+		],
+		"type1": [
+			{
+				"rank": 639,
+				"position": "52Q",
+				"information": 1.913,
+				"rate": 50.27537372147916,
+				"aa": "Q52R"
+			},
+			{
+				"rank": 1061,
+				"position": "67A",
+				"information": 1.399,
+				"rate": 83.47757671125098,
+				"aa": "A67V"
+			}
+		],
+		"t1": {},
+		"type2": [
+			{
+				"rank": 213761,
+				"site1": "52Q",
+				"site2": "67A",
+				"info": 29.594,
+				"rate": 13.232361937080958
+			}
+		]
+	},
+	"9": {
+		"WHO label": "Theta",
+		"Lineage + additional mutations": "P.3",
+		"Country first detected (community)": "The Philippines",
+		"Spike mutations of interest": "E484K N501Y D614G P681H E1092K H1101Y V1176F",
+		"Year and month first detected": "January 01, 2021",
+		"Impact on transmissibility": "Increased (m) (14)",
+		"Impact on immunity": "Increased (m) (17)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	},
+	"10": {
+		"WHO label": "Kappa",
+		"Lineage + additional mutations": "B.1.617.1",
+		"Country first detected (community)": "India",
+		"Spike mutations of interest": "L452R E484Q D614G P681R Q1071H",
+		"Year and month first detected": "December 01, 2020",
+		"Impact on transmissibility": "Increased (v) (23)",
+		"Impact on immunity": "Increased (v) (24-27)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	},
+	"11": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "B.1.620",
+		"Country first detected (community)": "Unclear (b)",
+		"Spike mutations of interest": "P26S V126A H245Y S477N E484K D614G P681H T1027I D1118H",
+		"Year and month first detected": "February 01, 2021",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (m) (17, 28)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [
+			"P26S",
+			"V126A"
+		],
+		"type1": [
+			{
+				"rank": 447,
+				"position": "26P",
+				"information": 2.124,
+				"rate": 35.16915814319434,
+				"aa": "P26S"
+			},
+			{
+				"rank": 1021,
+				"position": "126V",
+				"information": 1.473,
+				"rate": 80.33044846577498,
+				"aa": "V126A"
+			}
+		],
+		"t1": {},
+		"type2": [
+			{
+				"rank": 125507,
+				"site1": "26P",
+				"site2": "126V",
+				"info": 116.196,
+				"rate": 7.769209769963743
+			}
+		]
+	},
+	"12": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "B.1.617.3",
+		"Country first detected (community)": "India",
+		"Spike mutations of interest": "T19R L452R E484Q D614G P681R",
+		"Year and month first detected": "February 01, 2021",
+		"Impact on transmissibility": "Increased (m) (14)",
+		"Impact on immunity": "Increased (m) (17, 19)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	},
+	"13": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "A.23.1+E484K",
+		"Country first detected (community)": "United Kingdom",
+		"Spike mutations of interest": "F157L V367F Q613H P681R E484K",
+		"Year and month first detected": "December 01, 2020",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (m) (17)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	},
+	"14": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "A.27",
+		"Country first detected (community)": "Unclear (b)",
+		"Spike mutations of interest": "L18F L452R N501Y A653V H655Y D796Y G1219V",
+		"Year and month first detected": "December 01, 2020",
+		"Impact on transmissibility": "Increased (m) (14)",
+		"Impact on immunity": "Increased (m) (19)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [
+			"L18F"
+		],
+		"type1": [
+			{
+				"rank": 1113,
+				"position": "18L",
+				"information": 1.208,
+				"rate": 87.5688434303698,
+				"aa": "L18F"
+			}
+		],
+		"t1": {},
+		"type2": []
+	},
+	"15": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "A.28",
+		"Country first detected (community)": "Unclear (b)",
+		"Spike mutations of interest": "N501T H655Y",
+		"Year and month first detected": "December 01, 2020",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (m) (17)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	},
+	"16": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "C.16",
+		"Country first detected (community)": "Unclear (b)",
+		"Spike mutations of interest": "L452R D614G",
+		"Year and month first detected": "October 01, 2020",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (m) (17)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	},
+	"17": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "B.1.351+P384L",
+		"Country first detected (community)": "South Africa",
+		"Spike mutations of interest": "D80A D215G K417N E484K N501Y D614G A701V P384L",
+		"Year and month first detected": "December 01, 2020",
+		"Impact on transmissibility": "Increased (v) (29)",
+		"Impact on immunity": "Increased (v) (30, 31)",
+		"Impact on severity": "Unclear (32)",
+		"Category": "De-escalated variants",
+		"aas": [
+			"D80A"
+		],
+		"type1": [
+			{
+				"rank": 1035,
+				"position": "80D",
+				"information": 1.453,
+				"rate": 81.43194335169159,
+				"aa": "D80A"
+			}
+		],
+		"t1": {},
+		"type2": []
+	},
+	"18": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "B.1.351+E516Q",
+		"Country first detected (community)": "Unclear (b)",
+		"Spike mutations of interest": "D80A D215G K417N E484K N501Y D614G A701V E516Q",
+		"Year and month first detected": "January 01, 2021",
+		"Impact on transmissibility": "Increased (v) (29)",
+		"Impact on immunity": "Increased (v) (30, 31)",
+		"Impact on severity": "Unclear (32)",
+		"Category": "De-escalated variants",
+		"aas": [
+			"D80A"
+		],
+		"type1": [
+			{
+				"rank": 1035,
+				"position": "80D",
+				"information": 1.453,
+				"rate": 81.43194335169159,
+				"aa": "D80A"
+			}
+		],
+		"t1": {},
+		"type2": []
+	},
+	"19": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "B.1.1.7+L452R",
+		"Country first detected (community)": "United Kingdom",
+		"Spike mutations of interest": "N501Y A570D D614G P681H T716I S982A D1118H L452R",
+		"Year and month first detected": "January 01, 2021",
+		"Impact on transmissibility": "Increased (v) (14)",
+		"Impact on immunity": "Increased (m) (19)",
+		"Impact on severity": "Increased (v) (15)",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	},
+	"20": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "B.1.1.7+S494P",
+		"Country first detected (community)": "United Kingdom",
+		"Spike mutations of interest": "N501Y A570D D614G P681H T716I S982A D1118H S494P",
+		"Year and month first detected": "January 01, 2021",
+		"Impact on transmissibility": "Increased (v) (14)",
+		"Impact on immunity": "Increased (m) (33)",
+		"Impact on severity": "Increased (v) (15)",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	},
+	"21": {
+		"WHO label": "Iota",
+		"Lineage + additional mutations": "B.1.526",
+		"Country first detected (community)": "USA",
+		"Spike mutations of interest": "L5F T95I D253G D614G",
+		"Year and month first detected": "December 01, 2020",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (m) (17)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [
+			"L5F"
+		],
+		"type1": [
+			{
+				"rank": 664,
+				"position": "5L",
+				"information": 1.885,
+				"rate": 52.24232887490166,
+				"aa": "L5F"
+			}
+		],
+		"t1": {},
+		"type2": []
+	},
+	"22": {
+		"WHO label": "Zeta",
+		"Lineage + additional mutations": "P.2",
+		"Country first detected (community)": "Brazil",
+		"Spike mutations of interest": "E484K D614G V1176F",
+		"Year and month first detected": "January 01, 2021",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (m) (17)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	},
+	"23": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "B.1.1.519",
+		"Country first detected (community)": "Mexico",
+		"Spike mutations of interest": "T478K D614G P681H T732A",
+		"Year and month first detected": "November 01, 2020",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (m) (19)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [
+			"T732A"
+		],
+		"type1": [
+			{
+				"rank": 463,
+				"position": "732T",
+				"information": 2.101,
+				"rate": 36.42800944138473,
+				"aa": "T732A"
+			}
+		],
+		"t1": {},
+		"type2": []
+	},
+	"24": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "AV.1",
+		"Country first detected (community)": "United Kingdom",
+		"Spike mutations of interest": "D80G T95I G142D N439K E484K D614G P681H I1130V D1139H",
+		"Year and month first detected": "March 01, 2021",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (m) (17)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [
+			"D80G",
+			"I1130V"
+		],
+		"type1": [
+			{
+				"rank": 1035,
+				"position": "80D",
+				"information": 1.453,
+				"rate": 81.43194335169159,
+				"aa": "D80A"
+			},
+			{
+				"rank": 671,
+				"position": "1130I",
+				"information": 1.877,
+				"rate": 52.79307631785996,
+				"aa": "I1130V"
+			}
+		],
+		"t1": {},
+		"type2": [
+			{
+				"rank": 136642,
+				"site1": "80D",
+				"site2": "1130I",
+				"info": 101.401,
+				"rate": 8.458495234428245
+			}
+		]
+	},
+	"25": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "AT.1",
+		"Country first detected (community)": "Russian Federation",
+		"Spike mutations of interest": "P9L D215G H245P E484K D614G E780K",
+		"Year and month first detected": "January 01, 2021",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (m) (17)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [
+			"P9L"
+		],
+		"type1": [
+			{
+				"rank": 993,
+				"position": "9P",
+				"information": 1.518,
+				"rate": 78.12745869394178,
+				"aa": "P9L"
+			}
+		],
+		"t1": {},
+		"type2": []
+	},
+	"26": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "C.36+L452R",
+		"Country first detected (community)": "Egypt",
+		"Spike mutations of interest": "D614G Q677H L452R",
+		"Year and month first detected": "December 01, 2020",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (m) (19)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	},
+	"27": {
+		"WHO label": "Mu",
+		"Lineage + additional mutations": "B.1.621",
+		"Country first detected (community)": "Colombia",
+		"Spike mutations of interest": "T95I Y145N R346K E484K N501Y D614G P681H D950N",
+		"Year and month first detected": "January 01, 2021",
+		"Impact on transmissibility": "Increased (m) (14)",
+		"Impact on immunity": "Increased (m) (14)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [
+			"Y145N"
+		],
+		"type1": [
+			{
+				"rank": 1078,
+				"position": "145Y",
+				"information": 1.345,
+				"rate": 84.81510621557828,
+				"aa": "Y145H"
+			}
+		],
+		"t1": {},
+		"type2": []
+	},
+	"28": {
+		"WHO label": "Lambda",
+		"Lineage + additional mutations": "C.37",
+		"Country first detected (community)": "Peru",
+		"Spike mutations of interest": "G75V T76I R246N L452Q F490S D614G T859N",
+		"Year and month first detected": "December 01, 2020",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (v) (36, 37)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [
+			"G75V",
+			"T76I"
+		],
+		"type1": [
+			{
+				"rank": "",
+				"position": "75G",
+				"information": "",
+				"rate": "",
+				"aa": "G75V"
+			},
+			{
+				"rank": "",
+				"position": "76T",
+				"information": "",
+				"rate": "",
+				"aa": "T76I"
+			}
+		],
+		"t1": {},
+		"type2": []
+	},
+	"29": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "AY.4.2",
+		"Country first detected (community)": "United Kingdom",
+		"Spike mutations of interest": "T19R T95I G142D Y145H E156G A222V L452R T478K D614G P681R D950N",
+		"Year and month first detected": "June 01, 2021",
+		"Impact on transmissibility": "Increased (v) (38)",
+		"Impact on immunity": "Similar (v) (38, 39)",
+		"Impact on severity": "Similar (v) (38)",
+		"Category": "De-escalated variants",
+		"aas": [
+			"Y145H"
+		],
+		"type1": [
+			{
+				"rank": 1078,
+				"position": "145Y",
+				"information": 1.345,
+				"rate": 84.81510621557828,
+				"aa": "Y145H"
+			}
+		],
+		"t1": {},
+		"type2": []
+	},
+	"30": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "B.1.1.318",
+		"Country first detected (community)": "Unclear (b)",
+		"Spike mutations of interest": "T95I E484K D614G P681H D796H",
+		"Year and month first detected": "January 01, 2021",
+		"Impact on transmissibility": "No evidence",
+		"Impact on immunity": "Increased (m) (17)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	},
+	"31": {
+		"WHO label": NaN,
+		"Lineage + additional mutations": "C.1.2",
+		"Country first detected (community)": "South Africa",
+		"Spike mutations of interest": "P9L C136F R190S D215G Y449H E484K N501Y D614G H655Y N679K T716I T859N",
+		"Year and month first detected": "June 01, 2021",
+		"Impact on transmissibility": "Increased (m) (14)",
+		"Impact on immunity": "Increased (m) (17)",
+		"Impact on severity": "No evidence",
+		"Category": "De-escalated variants",
+		"aas": [
+			"P9L",
+			"C136F",
+			"Y449H"
+		],
+		"type1": [
+			{
+				"rank": 993,
+				"position": "9P",
+				"information": 1.518,
+				"rate": 78.12745869394178,
+				"aa": "P9L"
+			},
+			{
+				"rank": 321,
+				"position": "136C",
+				"information": 2.31,
+				"rate": 25.255704169944927,
+				"aa": "C136F"
+			},
+			{
+				"rank": 484,
+				"position": "449Y",
+				"information": 2.08,
+				"rate": 38.08025177025964,
+				"aa": "Y449H"
+			}
+		],
+		"t1": {},
+		"type2": [
+			{
+				"rank": 105540,
+				"site1": "9P",
+				"site2": "449Y",
+				"info": 143.86,
+				"rate": 6.5332005316195385
+			}
+		]
+	},
+	"32": {
+		"WHO label": "Beta",
+		"Lineage + additional mutations": "B.1.351",
+		"Country first detected (community)": "South Africa",
+		"Spike mutations of interest": "D80A D215G K417N E484K N501Y D614G A701V",
+		"Year and month first detected": "September 01, 2020",
+		"Impact on transmissibility": "Increased (v) (29)",
+		"Impact on immunity": "Increased (v) (30, 31)",
+		"Impact on severity": "Increased (v) (16, 32)",
+		"Category": "De-escalated variants",
+		"aas": [
+			"D80A"
+		],
+		"type1": [
+			{
+				"rank": 1035,
+				"position": "80D",
+				"information": 1.453,
+				"rate": 81.43194335169159,
+				"aa": "D80A"
+			}
+		],
+		"t1": {},
+		"type2": []
+	},
+	"33": {
+		"WHO label": "Gamma",
+		"Lineage + additional mutations": "P.1",
+		"Country first detected (community)": "Brazil",
+		"Spike mutations of interest": "L18F T20N P26S D138Y R190S K417T E484K N501Y D614G H655Y T1027I V1176F",
+		"Year and month first detected": "December 01, 2020",
+		"Impact on transmissibility": "Increased (v) (7)",
+		"Impact on immunity": "Increased (v) (40)",
+		"Impact on severity": "Increased (v) (16)",
+		"Category": "De-escalated variants",
+		"aas": [
+			"L18F",
+			"T20N",
+			"P26S",
+			"D138Y"
+		],
+		"type1": [
+			{
+				"rank": 1113,
+				"position": "18L",
+				"information": 1.208,
+				"rate": 87.5688434303698,
+				"aa": "L18F"
+			},
+			{
+				"rank": 1137,
+				"position": "20T",
+				"information": 1.058,
+				"rate": 89.45712037765539,
+				"aa": "T20N"
+			},
+			{
+				"rank": 447,
+				"position": "26P",
+				"information": 2.124,
+				"rate": 35.16915814319434,
+				"aa": "P26S"
+			},
+			{
+				"rank": 1079,
+				"position": "138D",
+				"information": 1.341,
+				"rate": 84.89378442171518,
+				"aa": "D138Y"
+			}
+		],
+		"t1": {},
+		"type2": [
+			{
+				"rank": 94233,
+				"site1": "18L",
+				"site2": "20T",
+				"info": 157.611,
+				"rate": 5.8332678197470536
+			},
+			{
+				"rank": 59825,
+				"site1": "18L",
+				"site2": "138D",
+				"info": 196.114,
+				"rate": 3.7033231173407137
+			},
+			{
+				"rank": 212702,
+				"site1": "20T",
+				"site2": "26P",
+				"info": 30.128,
+				"rate": 13.166807082400409
+			},
+			{
+				"rank": 110708,
+				"site1": "20T",
+				"site2": "138D",
+				"info": 136.908,
+				"rate": 6.853113174668712
+			},
+			{
+				"rank": 199744,
+				"site1": "26P",
+				"site2": "138D",
+				"info": 37.388,
+				"rate": 12.364673175931523
+			}
+		]
+	},
+	"34": {
+		"WHO label": "Delta",
+		"Lineage + additional mutations": "B.1.617.2",
+		"Country first detected (community)": "India",
+		"Spike mutations of interest": "T19R E156G L452R T478K D614G P681R D950N",
+		"Year and month first detected": "December 01, 2020",
+		"Impact on transmissibility": "Increased (v) (41)",
+		"Impact on immunity": "Increased (v) (42-44)",
+		"Impact on severity": "Increased (v) (43, 45)",
+		"Category": "De-escalated variants",
+		"aas": [],
+		"type1": [],
+		"t1": {},
+		"type2": []
+	}
+}

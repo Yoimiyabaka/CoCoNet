@@ -1,0 +1,16 @@
+cov2 2023-06-11 23:14:51,373 [cal_procon.py cal_procon()] <INFO>: parse type1
+cov2 2023-06-11 23:14:51,403 [cal_procon.py cal_procon()] <INFO>: parse type2
+cov2 2023-06-11 23:14:52,968 [analysis_procon.py analysis_procon()] <INFO>: load
+cov2 2023-06-11 23:14:53,373 [analysis_procon.py analysis_procon()] <INFO>: parse type1
+cov2 2023-06-11 23:14:53,567 [analysis_procon.py analysis_procon()] <INFO>: parse type2
+cov2 2023-06-11 23:15:16,053 [analysis_procon.py analysis_procon()] <INFO>: save
+cov2 2023-06-11 23:15:17,474 [output_procon_analysis.py __init__()] <INFO>: 构造图...
+cov2 2023-06-11 23:15:22,949 [output_procon_analysis.py _get_centralities()] <INFO>: degree
+cov2 2023-06-11 23:15:22,957 [output_procon_analysis.py _get_centralities()] <INFO>: betweenness
+cov2 2023-06-11 23:19:42,789 [output_procon_analysis.py _get_centralities()] <INFO>: closeness
+cov2 2023-06-11 23:23:13,287 [output_procon_analysis.py _get_centralities()] <INFO>: betweenness
+cov2 2023-06-11 23:27:45,194 [output_procon_analysis.py __init__()] <INFO>: page rank ...
+cov2 2023-06-11 23:27:46,406 [output_procon_analysis.py __init__()] <INFO>: shortest path length ...
+cov2 2023-06-11 23:31:09,464 [output_procon_analysis.py get_shortest_path_length()] <INFO>: save
+cov2 2023-06-11 23:31:12,702 [main_pccn.py <module>()] <INFO>: the net of AY.1.fasta has already generated
+cov2 2023-06-11 23:31:12,703 [main_pccn.py <module>()] <INFO>: start to generate the net of AY.9.2.1.fasta
