@@ -1,14 +1,16 @@
 # CoCoNet
-### 参数说明
-- --input_fasta：输入的fasta格式文件或文件夹
-- --data_dir：中间数据存放路径，default: "./data"
-- --out_dir：结果存放路径，default: "./data"
-- --net：是否执行共保守网络构建(default: True)
-- --dy：是否计算模块拓扑特征或从已有结果加载(default: True)
-- --mod：是否计算网络动力学特征或从已有结果加载(default: True)
-- --method: 使用模型(ensemble or single)(default: ensemble)
+## 1.Introduction
+## 2.Usage
+### Arguments description
+- --input_fasta：the fasta format files or folders inputed
+- --data_dir：Intermediate data storage path，default: "./data"
+- --out_dir：Result storage path，default: "./data"
+- --net：Whether to perform coconservative network construction，(default: True)
+- --dy：Whether to calculate module topology characteristics or load from the existing results，(default: True)
+- --mod：Whether to compute network dynamics features or load from existing results，(default: True)
+- --method: usage model，(ensemble or single)(default: ensemble)
 
-### 运行软件
+### Working flow
 
 ```shell
 
@@ -33,7 +35,7 @@
 
 ```
 
-什么时候可以跳过其中某些步骤?
-- net: 若./data/pccn/目录下已保存当前突变网络数据(xxx.fasta_threshold_100)，可跳过
-- dy: 若out_dir中已保存dynamic_feature.csv，可跳过
-- mod: 若out_dir中已保存module_feature.csv，可跳过
+When can you skip some of these steps?
+- net: If the current mutation network data (xxx.fasta_threshold_100) has been saved in the './data/pccn/' directory, it can be skipped.
+- dy: If the 'out_dir' directory already has dynamic feature.csv, you can skip it.
+- mod: If the 'out_dir' directory saved module feature.csv, can be skipped.
